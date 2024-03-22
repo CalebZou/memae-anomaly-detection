@@ -1,5 +1,5 @@
 % generating index files for video clips
-data_root_path = '/data/root/path/';
+data_root_path = 'D:/Develop/Pycharm/memae-anomaly-detection/';
 in_path = [data_root_path, 'datasets/processed/UCSD_P2_256/'];
 %%
 frame_file_type = 'jpg';

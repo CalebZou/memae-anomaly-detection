@@ -46,8 +46,8 @@ print('bs=%d, lr=%f, entrloss=%f, shr=%f, memdim=%d' % (batch_size_in, learning_
 ############
 ## data path
 data_root = opt.DataRoot + opt.Dataset + '/'
-tr_data_frame_dir = data_root + 'Train/'
-tr_data_idx_dir = data_root + 'Train_idx/'
+tr_data_frame_dir = 'D:/Develop/Pycharm/memae-anomaly-detection/datasets/processed/UCSD_P2_256/' + 'Train/'
+tr_data_idx_dir = 'D:/Develop/Pycharm/memae-anomaly-detection/datasets/processed/UCSD_P2_256/' + 'Train_idx/'
 
 ############ model saving dir path
 saving_root = opt.ModelRoot

@@ -9,7 +9,7 @@ class TrainOptions():
     def initialize(self):
         parser = argparse.ArgumentParser()
         parser.add_argument('--UseCUDA', help='Use CUDA?', type=str2bool, nargs='?', default=True)
-        parser.add_argument('--NumWorker', help='num of worker for dataloader', type=int, default=1)
+        parser.add_argument('--NumWorker', help='num of worker for dataloader', type=int, default=0)
         parser.add_argument('--Mode', help='script mode', choices=['train', 'eval'], default='train')
         parser.add_argument('--ModelName', help='AE/MemAE', type=str, default='MemAE')
         parser.add_argument('--ModelSetting',

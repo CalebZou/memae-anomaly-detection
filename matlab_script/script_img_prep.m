@@ -1,7 +1,7 @@
 % preprocessing UCSD data frames
 addpath('utils')
 
-data_root_path = '/data/root/path/';
+data_root_path = 'D:/Develop/Pycharm/memae-anomaly-detection/';
 in_path = [data_root_path, 'datasets/UCSD_Anomaly_Dataset.v1p2/UCSDped2/'];
 out_path = [data_root_path, 'datasets/processed/UCSD_P2_256/'];
 

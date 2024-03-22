@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="558fe2b9-a9b6-47d1-ad91-90a8f9b646df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/matlab_script/script_img_prep.m" beforeDir="false" afterPath="$PROJECT_DIR$/matlab_script/script_img_prep.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/matlab_script/script_index_gen.m" beforeDir="false" afterPath="$PROJECT_DIR$/matlab_script/script_index_gen.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/options/training_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/options/training_options.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_video_MemAE.sh" beforeDir="false" afterPath="$PROJECT_DIR$/train_video_MemAE.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
